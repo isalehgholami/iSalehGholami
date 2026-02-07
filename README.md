@@ -12,10 +12,10 @@
 ---
 
 ### 🔥 About Me
-- 🏢 Currently building the future at [SmartVest Solutions](https://smartvest.ir)  
+- 🏢 Available for new opportunities
 - 🧱 Exploring the deep end of **Blockchain & Web3 technologies**  
 - 🧠 Passionate about writing **robust**, **scalable**, and **clean** software  
-- 🧰 Tech Stack: **ASP.NET**, **React**, **Node.js**, **Next.js**, **PostgreSQL**, **Docker**, **Kubernetes**, and more  
+- 🧰 Tech Stack: **ASP.NET**, **React**, **Node.js**, **Next.js**, **PostgreSQL**, **Docker**, and more  
 - 🛠️ DevOps-ready: **CI/CD**, **Infrastructure-as-Code**, **Cloud-Native Architecture**
 
 ---
