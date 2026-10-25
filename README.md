@@ -6,11 +6,6 @@
 
 ---
 
-### 🧠 Motto
-> **"Clean Code. Scalable Systems. No Shortcuts."**
-
----
-
 ### 🔥 About Me
 - 🏢 Available for new opportunities
 - 🧱 Exploring the deep end of **Blockchain & Web3 technologies**  
@@ -37,14 +32,9 @@
 
 ### 🧪 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isalehgholami&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalehgholami&layout=compact&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isalehgholami&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isalehgholami&theme=algolia&margin-w=15&no-frame=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=isalehgholami&show_icons=true&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalehgholami&layout=compact&theme=radical&hide_border=true" />
 </p>
